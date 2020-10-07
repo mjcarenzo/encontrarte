@@ -1,0 +1,16 @@
+:root {
+    --colorSecundarioText: #FF7171;
+}
+
+
+.section-titulo__secundario {
+    color: var(--colorSecundarioText) !important;
+}
+
+.btn-informacion {
+    background-color: var(--colorSecundarioText) !important;
+    border:none;
+    width: 75% !important;
+    display: flex !important;
+    justify-content: center !important;
+}

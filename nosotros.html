@@ -8,6 +8,8 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="css/main.css">
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" rel="stylesheet">
 
@@ -16,68 +18,55 @@
 
 <body>
     <!-- Header Nav Menu -->
-    <header class="container">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-            <a class="navbar-brand">
-                <img src="img/logo.png" class="rounded-circle" height="45px" alt="logo">
-            </a>
-            <span class="navbar-text mr-auto">Corazones desaparecidos</span>
-            <button class="navbar-toggler" data-target="#menu" data-toggle="collapse" type="button">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="menu">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a href="index.html" class="nav-link">Inicio</a>
-                    </li>
-                    <li class="nav-item active">
-                        <a href="familiares.html" class="nav-link">Informacion para familiares</a>
-                    </li>
-                    <li class="nav-item active">
-                        <a href="nosotros.html" class="nav-link">Sobre nosotros</a>
-                    </li>
-                    <li class="nav-item active">
-                        <a href="contacto.html" class="nav-link">Contacto</a>
-                    </li>
-                </ul>
-
+    <header class="header sticky-top">
+        <nav class="navbar navbar-light bg-light">
+            <div class="container">
+                <a href="index.html" class="navbar-brand">
+                    <img src="img/logo.svg" class="rounded-circle" height="60px" alt="logo">
+                </a>
+                <span class="navbar-text mx-auto">Sobre Notrosos</span>
+                <button class="navbar-toggler" data-target="#menu" data-toggle="collapse" type="button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="menu">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a href="familiares.html" class="nav-link"><i class="far fa-edit pr-3"></i>Información para
+                                familiares</i></a>
+                        </li>
+                        <li class="nav-item active">
+                            <a href="nosotros.html" class="nav-link"><i class="fas fa-users pr-3"></i>Sobre
+                                nosotros</i></a>
+                        </li>
+                        <li class="nav-item active">
+                            <a href="contacto.html" class="nav-link"><i
+                                    class="far fa-envelope pr-3"></i>Contacto</i></a>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </nav>
     </header>
     <!-- END Header Nav Menu -->
 
     <!-- Seccion Nosotros -->
-    <!-- END Seccion Nosotros -->
-
-    <!-- FOOTER -->
-    <footer class="bg-dark text-white py-4">
+    <section>
         <div class="container">
-            <nav class="row">
-                <a href="#" class="col-12 text-reset text-uppercase d-flex aling-items-center py-4">
-                    <img src="img/logo.png" height="45px" alt="Logo" class="rounded-circle mr-2">
-                    Corazones desaparecidos
-                </a>
-            
-                <ul class="col-12 list-unstyled py-4">
-                    <li class="font-weight-bold text-uppercase">Quick Links</li>
-                    <li><a href="index.html" class="text-reset">Inicio</a></li>
-                    <li><a href="familiares.html" class="text-reset">Informacion para familiares</a></li>
-                    <li><a href="nosotros.html" class="text-reset">Sobre Nosotros</a></li>
-                    <li><a href="contacto.html" class="text-reset">Contacto</a></li>
-                </ul>
-                <ul class="col-12 list-unstyled">
-                    <li class="font-weight-bold text-uppercase">Social Networks</li>
-                    <li class="d-flex justify-content-between">
-                        <a href="#" class="text-reset"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="text-reset"><i class="fab fa-twitter"></i></a>
-                        <a href="#" class="text-reset"><i class="fab fa-instagram"></i></a>
-                    </li>
-                </ul>
-
-            </nav>
+            <p class="text-justify">Este espacio se propone trabajar para localizar a personas que faltan de su hogar.
+                Cuando este tipo de acontecimientos se producen, la ciudadanía cumple un importante rol, amplificando y
+                dando a conocer, por distintos medios, las búsquedas en curso. De esta forma, encontrarlos se convierte
+                en una tarea colectiva.</p>
+            <p class="text-justify">La difusión de las búsquedas en los diferentes medios de comunicación social es
+                clave. Por eso desde la app te proponemos poder compartir en forma directa en tus redes sociales, las
+                búsquedas para poder llegar con la información a muchos.</p>
+            <p class="text-justify">También, en caso que cuentes con información, podes reportar la misma directamente
+                en la app.</p>
+            <p class="text-center font-weight-bold">
+                Encontrarte, es una tarea de todos.<br>¡Contamos con vos!
+            </p>
         </div>
-    </footer>
-    <!-- END FOOTER -->
+    </section>
+    <!-- END Seccion Nosotros -->
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
