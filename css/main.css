@@ -1,22 +1,22 @@
 :root {
-    --colorSecundarioText: #FF7171;
+    --colorSecundario: #FF7171;
 }
 
 
 .section-titulo__secundario {
-    color: var(--colorSecundarioText) !important;
+    color: var(--colorSecundario) !important;
 }
 
 .card-button {
     display: flex;
     justify-content: center;
-    cursor: pointer !important;
 }
 
 .btn-informacion {
-    background-color: var(--colorSecundarioText) !important;
+    background-color: var(--colorSecundario) !important;
     border:none;
     width: 60% !important;
+    cursor: pointer !important;
 }
 
 
@@ -24,4 +24,14 @@
 .card-imagen img {
     width: 100%;
     height: 10%;
+}
+
+.btn-aportar {
+    background-color: var(--colorSecundario) !important;
+    border-color:  var(--colorSecundario) !important;
+}
+
+.botones-informacion {
+    display:flex;
+    justify-content: space-evenly;
 }
