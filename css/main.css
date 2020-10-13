@@ -35,3 +35,7 @@
     display:flex;
     justify-content: space-evenly;
 }
+
+.card-body span {
+    font-weight: bold;
+}
