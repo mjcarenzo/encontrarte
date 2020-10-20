@@ -8,6 +8,13 @@
     --colorTwitter: #1c9cea;
 }
 
+<<<<<<< HEAD
+=======
+.img-logo {
+    width: 35%;
+}
+
+>>>>>>> 61804cea43bd2a64cc31da79a6feaa9bbeb73e12
 .section-titulo__secundario {
     color: var(--colorPrimario) !important;
 }
