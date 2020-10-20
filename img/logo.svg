@@ -5,157 +5,136 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="logob.svg"
+   version="1.1"
    id="svg895"
-   xml:space="preserve"
-   style="enable-background:new 0 0 262 385.3;"
-   viewBox="0 0 262 385.3"
-   y="0px"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="logo3.svg"
    x="0px"
-   version="1.1"><metadata
-   id="metadata901"><rdf:RDF><cc:Work
+   y="0px"
+   viewBox="0 0 649 349"
+   style="enable-background:new 0 0 649 349;"
+   xml:space="preserve"><metadata
+   id="metadata873"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs899"><rect
-     id="rect942"
-     height="51.194747"
-     width="161.03531"
-     y="47.066064"
-     x="66.909545" /></defs><sodipodi:namedview
-   inkscape:current-layer="svg895"
-   inkscape:window-maximized="1"
-   inkscape:window-y="-8"
-   inkscape:window-x="-8"
-   inkscape:cy="159.90391"
-   inkscape:cx="166.88626"
-   inkscape:zoom="0.94513364"
-   showgrid="false"
-   id="namedview897"
-   inkscape:window-height="705"
-   inkscape:window-width="1366"
-   inkscape:pageshadow="2"
-   inkscape:pageopacity="0"
-   guidetolerance="10"
-   gridtolerance="10"
-   objecttolerance="10"
-   borderopacity="1"
-   bordercolor="#666666"
-   pagecolor="#ffffff" />
+   id="defs871" />
 <style
-   id="style868"
-   type="text/css">
+   type="text/css"
+   id="style854">
 	.st0{display:none;}
 	.st1{display:inline;fill:#00C927;}
 	.st2{fill:#0F4C75;}
-	.st3{fill:none;}
+	.st3{fill:#3282B8;}
+	.st4{fill:#FF7373;}
+	.st5{font-family:'CenturyGothic-Bold';}
+	.st6{font-size:200px;}
+	.st7{fill:#1B262C;}
+	.st8{font-size:65px;}
 </style>
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1"
+   gridtolerance="10"
+   guidetolerance="10"
+   id="namedview897"
+   inkscape:current-layer="svg895"
+   inkscape:cx="566.16106"
+   inkscape:cy="159.90391"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-height="705"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1366"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:zoom="0.90617652"
+   objecttolerance="10"
+   pagecolor="#ffffff"
+   showgrid="false"
+   inkscape:document-rotation="0">
+	</sodipodi:namedview>
 <g
-   class="st0"
-   id="Capa_5">
+   id="Capa_5"
+   class="st0">
 	<rect
    id="rect870"
-   height="385.3"
+   y="-36.3"
+   class="st1"
    width="262"
-   class="st1" />
+   height="385.3" />
 </g>
 <g
+   id="svg833_copia_2"
    transform="translate(-2,-4)"
-   sodipodi:docname="logob.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
    inkscape:export-filename="C:\Users\Nico\Desktop\MISSING\logo_OK.png"
-   id="svg833_copia_2">
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="logob.svg">
 	
 		<sodipodi:namedview
-   showgrid="false"
-   pagecolor="#ffffff"
-   objecttolerance="10"
-   inkscape:zoom="0.79574649"
-   inkscape:window-y="-8"
-   inkscape:window-x="-8"
-   inkscape:window-width="1366"
-   inkscape:window-maximized="1"
-   inkscape:window-height="705"
-   inkscape:pageshadow="2"
-   inkscape:pageopacity="0"
-   inkscape:cy="273.95922"
-   inkscape:cx="332.96794"
-   inkscape:current-layer="g841"
-   id="namedview835"
-   guidetolerance="10"
-   gridtolerance="10"
+   bordercolor="#666666"
    borderopacity="1"
-   bordercolor="#666666">
+   gridtolerance="10"
+   guidetolerance="10"
+   id="namedview835"
+   inkscape:current-layer="g841"
+   inkscape:cx="332.96794"
+   inkscape:cy="273.95922"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-height="705"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1366"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:zoom="0.79574649"
+   objecttolerance="10"
+   pagecolor="#ffffff"
+   showgrid="false">
 		</sodipodi:namedview>
 	<ellipse
    id="ellipse874"
-   ry="11.9"
-   rx="60.400002"
-   cy="362.70001"
-   cx="129.89999"
-   class="st2" />
+   class="st2"
+   cx="116.9"
+   cy="330.5"
+   rx="60.4"
+   ry="11.9" />
 </g>
-
-
-<g
-   transform="matrix(0.72457685,-0.7187985,0.7187985,0.72457685,-65.347125,116.33492)"
-   sodipodi:docname="logob.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="C:\Users\Nico\Desktop\MISSING\logo_OK.png"
-   id="svg833_copia_5">
-	
-		<sodipodi:namedview
-   showgrid="false"
-   pagecolor="#ffffff"
-   objecttolerance="10"
-   inkscape:zoom="0.79574649"
-   inkscape:window-y="-8"
-   inkscape:window-x="-8"
-   inkscape:window-width="1366"
-   inkscape:window-maximized="1"
-   inkscape:window-height="705"
-   inkscape:pageshadow="2"
-   inkscape:pageopacity="0"
-   inkscape:cy="273.95922"
-   inkscape:cx="332.96794"
-   inkscape:current-layer="g841"
-   id="namedview885"
-   guidetolerance="10"
-   gridtolerance="10"
-   borderopacity="1"
-   bordercolor="#666666">
-		</sodipodi:namedview>
-	<path
-   d="M 117.8,234 C 62.5,228.1 23.4,180.6 30.4,127.7 c 7,-52.9 57.4,-91 112.7,-85.1 55.3,5.9 94.4,53.4 87.4,106.3 -7,52.9 -57.4,91 -112.7,85.1 z"
-   class="st3"
-   id="SVGID_x5F_1_x5F_" />
-	<text
-   transform="rotate(5.1081324)"
-   y="-32.066826"
-   x="22.261667"
-   id="text892">	<textPath
-   id="textPath890"
-   startOffset="36.783901%"
-   xlink:href="#SVGID_x5F_1_x5F_"> <tspan
-   id="tspan888"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.3333px;font-family:ARIAL;-inkscape-font-specification:'ARIAL Bold';fill:#1b262c">ENCONTRARTE</tspan>	</textPath></text>
-<text
-   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect942);fill:#000000;fill-opacity:1;stroke:none;"
-   id="text940"
-   xml:space="preserve" /></g>
 <path
+   id="path903"
    sodipodi:nodetypes="cscscscccscccsccc"
-   d="M 127.02344,43.554688 C 108.49408,43.38321 44.085889,56.844616 33.339844,130.0918 c -0.390086,2.6589 -0.312737,3.28231 -0.556641,7.82031 0.246783,5.39834 0.187632,6.18784 0.609375,9.11328 9.742837,67.58168 64.672182,145.26505 95.541012,206.99219 37.49694,-72.00817 88.43746,-149.24312 96.24414,-209.70508 0.22611,-1.75113 0.2285,-3.48848 0.38086,-5.21094 -0.0436,-1.52271 0.0229,-6.26045 -0.19921,-8.34128 -2.66673,-24.98579 -20.05404,-83.38851 -96.68946,-87.146999 -0.4989,-0.03236 -1.04876,-0.05306 -1.64648,-0.05859 z m 1.56445,21.21875 c 0.11523,-2.64e-4 0.23047,-2.64e-4 0.3457,0 41.05008,-7e-6 74.32784,32.803792 74.32813,73.269532 -3e-4,40.46573 -33.27805,73.26954 -74.32813,73.26953 -41.050078,0 -74.327825,-32.8038 -74.328121,-73.26953 C 54.60532,97.70995 87.67288,64.961025 128.58789,64.773438 Z"
-   style="fill:#3282b8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   id="path903" /><path
-   sodipodi:nodetypes="cscscscsc"
+   class="st3"
+   d="M114,11.3c-18.5-0.2-82.9,13.3-93.7,86.5  c-0.4,2.7-0.3,3.3-0.6,7.8c0.2,5.4,0.2,6.2,0.6,9.1c9.7,67.6,64.7,145.3,95.5,207c37.5-72,88.4-149.2,96.2-209.7  c0.2-1.8,0.2-3.5,0.4-5.2c0-1.5,0-6.3-0.2-8.3c-2.7-25-20.1-83.4-96.7-87.1C115.2,11.3,114.6,11.3,114,11.3L114,11.3z M115.6,32.5  c0.1,0,0.2,0,0.3,0c41.1,0,74.3,32.8,74.3,73.3c0,40.5-33.3,73.3-74.3,73.3s-74.3-32.8-74.3-73.3C41.6,65.5,74.7,32.7,115.6,32.5z" />
+<path
    id="path938"
-   d="m 128.55311,105.60476 c 13.78652,-20.577011 58.74297,-23.651081 64.48867,18.32884 0.0841,0.61411 0.14707,2.03224 0.13324,1.91811 -0.0744,1.26256 0.0263,1.26196 -0.0248,1.9152 -2.81604,35.96289 -40.7738,69.53803 -64.22299,77.71659 -47.745075,-21.33309 -61.687944,-59.67638 -64.255644,-75.46544 -0.27214,-1.67343 -0.19875,-3.179 -0.195275,-4.34537 0.02321,-1.25123 0.169432,-2.35577 0.429094,-3.5408 9.212209,-42.042189 53.592385,-34.943883 63.647755,-16.52713 z"
-   style="fill:#ff7373;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /></svg>
+   sodipodi:nodetypes="cscscscsc"
+   class="st4"
+   d="M115.6,73.4c13.8-20.6,58.7-23.7,64.5,18.3c0.1,0.6,0.1,2,0.1,1.9  c-0.1,1.3,0,1.3,0,1.9c-2.8,36-40.8,69.5-64.2,77.7c-47.7-21.3-61.7-59.7-64.3-75.5c-0.3-1.7-0.2-3.2-0.2-4.3c0-1.3,0.2-2.4,0.4-3.5  C61.1,47.9,105.5,54.9,115.6,73.4L115.6,73.4z" />
+<text
+   class="st2 st5 st6"
+   id="text864"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:233.333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-15px;word-spacing:0px;fill:#0f4c75"
+   x="211.85558"
+   y="232.49553"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:233.333px;font-family:Arial;-inkscape-font-specification:Arial"
+     id="tspan875">en</tspan></text>
+<text
+   class="st7 st5 st8"
+   id="text866"
+   x="220.64415"
+   y="290.50064"
+   style="font-size:70.6667px"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.6667px;font-family:ARIAL;-inkscape-font-specification:ARIAL"
+     id="tspan881">contrar</tspan></text>
+<text
+   class="st3 st5 st6"
+   id="text868"
+   style="font-size:233.333px;letter-spacing:-15px"
+   x="444.92441"
+   y="290.44269"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:233.333px;font-family:arial;-inkscape-font-specification:arial"
+     id="tspan883">te</tspan></text>
+</svg>
