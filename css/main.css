@@ -8,6 +8,9 @@
     --colorTwitter: #1c9cea;
 }
 
+.img-logo {
+    width: 35%;
+}
 
 .section-titulo__secundario {
     color: var(--colorPrimario) !important;
